@@ -16,10 +16,14 @@
           "185.165.29.78", 
           "84.200.16.242", 
           "111.90.139.247", 
-          "95.141.115.108"
+          "95.141.115.108",
+		  "104.155.10.169"
         ], 
         "dns": [
-          "COFFEINOFFICE.XYZ"
+          "COFFEINOFFICE.XYZ",
+		  "benkow.cc",
+		  "burak.fr",
+		  "pental.dothome.co.kr"
         ], 
         "md5": [
           "415FE69BF32634CA98FA07633F4118E1", 
@@ -29,7 +33,22 @@
 		  "da2b0b17905e8afae0eaca35e831be9e",
 		  "e8fb95ebb7e0db4c68a32947a74b5ff9",
 		  "0eb39578c274718dd4aa64860005aeb1",
-		  "17c25c8a7c141195ee887de905f33d7b"
+		  "17c25c8a7c141195ee887de905f33d7b",
+		  "d28801905a63a924996444897d01eb01",
+		  "06eff17186695d8f9ea466d159b3316d",
+		  "82ed636b43a9739457b7460bc79bbd13",
+		  "f7e6475366a65ac81740b539e1c58c1f",
+		  "ccd721b4794a82167f94c9e6c54a7e09",
+		  "3501a946998bbb35fca74e686591be41",
+		  "5308e42d3978f5db730138ccdd0bd6dd",
+		  "41787c17eb6e11018c31433a34c5e2f7",
+		  "f22943e464da1294d732cdf688b0df21",
+		  "c1232a57e1c929dfba38aea58b227598",
+		  "bffabed92d5c9a6a5844bde6eccce651",
+		  "674e86e29d34facd7a69bc5ccf626bc3",
+		  "415FE69BF32634CA98FA07633F4118E1",
+		  "A1D5895F85751DFE67D19CCCB51B051A"
+		  
         ]
       }, 
       "score": 100, 
