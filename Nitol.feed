@@ -1,6 +1,6 @@
 {
   "feedinfo": {
-    "provider_url": "Idefense.", 
+    "provider_url": "https://intelgraph.verisign.com/#/node/intelligence_alert/view/576df4c6-02e8-4f89-b4c8-f5d40e9b6012", 
     "display_name": "Nitol", 
     "name": "Nitol", 
     "tech_data": "There are no requirements to share any data to receive this feed.", 
@@ -10,7 +10,7 @@
   "reports": [
     {
       "title": "Nitol", 
-      "timestamp": 1498601463, 
+      "timestamp": 1498602386, 
       "iocs": {
         "ipv4": [
           "185.115.140.170", 
@@ -132,7 +132,7 @@
         ]
       }, 
       "score": 100, 
-      "link": "Idefense.", 
+      "link": "https://intelgraph.verisign.com/#/node/intelligence_alert/view/576df4c6-02e8-4f89-b4c8-f5d40e9b6012", 
       "id": "f2aea74ccd56a49d5e6397f710756ac2"
     }
   ]
