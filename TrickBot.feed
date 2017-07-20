@@ -1,0 +1,52 @@
+{
+  "feedinfo": {
+    "provider_url": "https://blog.malwarebytes.com/threat-analysis/2016/10/trick-bot-dyrezas-successor/", 
+    "display_name": "TrickBot", 
+    "name": "TrickBot", 
+    "tech_data": "There are no requirements to share any data to receive this feed.", 
+    "summary": "This feed is a list of IOCs surrounding the TrickBot malware", 
+    "icon": "/9j/4AAQSkZJRgABAQEASABIAAD/4QBoRXhpZgAATU0AKgAAAAgABAE="
+  }, 
+  "reports": [
+    {
+      "title": "TrickBot", 
+      "timestamp": 1500598853, 
+      "iocs": {
+        "ipv4": [
+          "5.12.28.0", 
+          "188.116.23.98", 
+          "46.22.211.34", 
+          "138.201.44.28", 
+          "84.232.251.0", 
+          "68.179.234.69", 
+          "37.1.209.51", 
+          "104.250.138.194", 
+          "91.219.28.77", 
+          "27.208.131.97", 
+          "193.9.28.24", 
+          "37.109.52.75", 
+          "36.37.176.6", 
+          "91.219.28.103", 
+          "80.79.114.179"
+        ], 
+        "md5": [
+          "e80ac57a092ffcf2965613c8b3c537c0", 
+          "f24384228fb49f9271762253b0733123", 
+          "c5a0a3dba3c3046e446bd940c20b6092", 
+          "f26649fc31ede7594b18f8cd7cdbbc15", 
+          "533b0bdae7f4c8dcd57556a45e1a62c8", 
+          "653EB63213B91453D28A68C80FCA3AC4", 
+          "90421f8531f963d81cf54245b72cde80", 
+          "0b521fd97402c02366184ec413e888cc", 
+          "bd79db0f9f8263a215e527d6627baf2f", 
+          "10d72baf2c79b29bad1038e09c6ed107", 
+          "3814abbcd8c8a41665260e4b41af26d4", 
+          "47d9e7c464927052ca0d22af7ad61f5d"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://blog.malwarebytes.com/threat-analysis/2016/10/trick-bot-dyrezas-successor/", 
+      "id": "e527f78e7383baaa732b8745ddfc9e45"
+    }
+  ]
+}
