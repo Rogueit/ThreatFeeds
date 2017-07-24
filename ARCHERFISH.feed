@@ -1,0 +1,58 @@
+{
+  "feedinfo": {
+    "provider_url": "https://intranet.ssnet.usss.dhs.gov", 
+    "display_name": "ARCHERFISH", 
+    "name": "ARCHERFISH", 
+    "tech_data": "ARCHERFISH Activity Targeting Multiple Sectors ", 
+    "summary": "This feed is a list of all IOCs released by iDefense Intelegraph", 
+    "icon": "/9j/4AAQSkZJRgABAQEASABIAAD/4QBoRXhpZgAATU0AKgAAAAgABAE="
+  }, 
+  "reports": [
+    {
+      "title": "ARCHERFISH", 
+      "timestamp": 1500945259, 
+      "iocs": {
+        "ipv4": [
+          "103.19.9.172", 
+          "103.238.224.46", 
+          "103.224.81.162", 
+          "118.193.132.92", 
+          "45.248.86.204", 
+          "45.248.86.174", 
+          "43.246.175.228", 
+          "43.242.34.195"
+        ], 
+        "dns": [
+          "103.238.224.46/s.zip", 
+          "103.19.9.172/s.exe", 
+          "spk.cloudie.hk/download.zip", 
+          "trprivates.com", 
+          "www.trprivates.com", 
+          "w.trprivates.com", 
+          "m.mildupdate.com", 
+          "www.mildupdate.com", 
+          "mildupdate.com"
+        ], 
+        "md5": [
+          "07d3e52b9f484aa8074daf75d9904249", 
+          "51f1b6cd6ecfa27f0152e55dc544887d", 
+          "07820cda8566e4029edd158389ce756a", 
+          "7a70eacfab186b81c28c061c573d3c31", 
+          "ec8c2e6c2c4a7515635b7dfedb0b30bd", 
+          "7100dbf58feacd6b7513726cfa1a62ba", 
+          "a13772805b772f374f7d709999a816d5", 
+          "9814cdc7033a97fcf4f31aa377be60ba", 
+          "e2f0df2d45147f660a46a22761d4e863", 
+          "7d5e01430f6fc210c5e366b3305621b0", 
+          "b2edbe1bb8626172b804ff36f8a5d679", 
+          "e5235fb1da698c66153b19f3fdce854e", 
+          "ec8c2e6c2c4a7515635b7dfedb0b30bd", 
+          "07820cda8566e4029edd158389ce756a"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://intranet.ssnet.usss.dhs.gov", 
+      "id": "388e308bff8674a7c7c833ca48290ce0"
+    }
+  ]
+}
