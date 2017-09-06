@@ -1,0 +1,64 @@
+{
+  "feedinfo": {
+    "provider_url": "https://intranet.ssnet.usss.dhs.gov", 
+    "display_name": "Carbanak", 
+    "name": "Carbanak", 
+    "tech_data": "TLP:Amber", 
+    "summary": "This feed is a list of all IOCs released by NH-ISAC", 
+    "icon": "iVBORwo="
+  }, 
+  "reports": [
+    {
+      "title": "Carbanak", 
+      "timestamp": 1504660401, 
+      "iocs": {
+        "ipv4": [
+          "62.210.25.121", 
+          "95.215.46.221", 
+          "104.250.138.197", 
+          "212.129.36.175", 
+          "80.84.49.61", 
+          "95.215.46.229", 
+          "107.181.246.189", 
+          "80.84.49.66", 
+          "95.215.46.234", 
+          "148.251.18.75", 
+          "138.201.44.4", 
+          "81.17.28.124", 
+          "95.215.45.94", 
+          "179.43.140.85", 
+          "89.163.248.8", 
+          "95.215.46.249", 
+          "179.43.133.34", 
+          "89.163.248.6", 
+          "95.215.44.94", 
+          "179.43.140.85", 
+          "95.215.44.12", 
+          "95.215.47.105", 
+          "192.99.14.211"
+        ], 
+        "dns": [
+          "true-deals.com", 
+          "rescsovwe.com", 
+          "atlantis-bahamas.com", 
+          "pdoklbr.com", 
+          "proslr3.com", 
+          "onokder.com", 
+          "goproders.com", 
+          "kiposerd.com", 
+          "pdokls3.com", 
+          "hilopser.com"
+        ], 
+        "md5": [
+          "b4d48f3e1ae339f2fcb94b7abceecfff", 
+          "6a537d3aea21b633f80a1ddde0f33c18", 
+          "4ec7088aac32c94a7046810925bc1697", 
+          "5f73beb23c45006ad952a71fa62c6f9f"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://intranet.ssnet.usss.dhs.gov", 
+      "id": "a8c4057c2e3ba8af7bb48a16f2ff2c7a"
+    }
+  ]
+}
