@@ -1,0 +1,57 @@
+{
+  "feedinfo": {
+    "provider_url": "https://securelist.com/bad-rabbit-ransomware/82851/", 
+    "display_name": "BadRabbit", 
+    "name": "BadRabbit", 
+    "tech_data": "On October 24th we observed notifications of mass attacks with ransomware called Bad Rabbit", 
+    "summary": "This feed is a list of all IOCs associated with the Bad Rabbit Ransomware", 
+    "icon": "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"
+  }, 
+  "reports": [
+    {
+      "title": "BadRabbit", 
+      "timestamp": 1508951083, 
+      "iocs": {
+        "dns": [
+          "caforssztxqzf2nm.onion", 
+          "185.149.120.3/scholargoogle/", 
+          "1dnscontrol.com/flash_install.php", 
+          "1dnscontrol.com", 
+          "caforssztxqzf2nm.onion", 
+          "argumentiru.com", 
+          "fontanka.ru", 
+          "grupovo.bg", 
+          "sinematurk.com", 
+          "aica.co.jp", 
+          "spbvoditel.ru", 
+          "argumenti.ru", 
+          "mediaport.ua", 
+          "blog.fontanka.ru", 
+          "an-crimea.ru", 
+          "t.ks.ua", 
+          "most-dnepr.info", 
+          "osvitaportal.com.ua", 
+          "otbrana.com", 
+          "calendar.fontanka.ru", 
+          "grupovo.bg", 
+          "pensionhotel.cz", 
+          "online812.ru", 
+          "imer.ro", 
+          "novayagazeta.spb.ru", 
+          "i24.com.ua", 
+          "bg.pensionhotel.com", 
+          "ankerch-crimea.ru"
+        ], 
+        "md5": [
+          "edb72f4a46c39452d1a5414f7d26454a", 
+          "fbbdc39af1139aebba4da004475e8839", 
+          "b14d8faf7f0cbcfad051cefe5f39645f", 
+          "1d724f95c61f1055f0d02c2154bbccd3"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://securelist.com/bad-rabbit-ransomware/82851/", 
+      "id": "7a88d2a929b916cf69e2887ca8e463a4"
+    }
+  ]
+}
