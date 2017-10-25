@@ -1,0 +1,64 @@
+{
+  "feedinfo": {
+    "provider_url": "https://www.mindspark.in/mindspark/login/", 
+    "display_name": "MindSpark", 
+    "name": "MindSpark", 
+    "tech_data": "https://blog.malwarebytes.com/cybercrime/2014/11/mindspark-toolbars/", 
+    "summary": "This feed is a list of all md5 associated with the MindSpark PUP"
+  }, 
+  "reports": [
+    {
+      "title": "MindSpark", 
+      "timestamp": 1508954110, 
+      "iocs": {
+        "md5": [
+          "aae97d87c94ad73f8bf5faaa387ca389", 
+          "32f73b3a9fc2ac2a7dba5728f735026c", 
+          "5a08c01cc4f958e5a15ffb82561619bc", 
+          "ea1cf4df967ec49dc48debab05113628", 
+          "50ff3d2ff05875503f988cda92ce9118", 
+          "49a93b6c4aca660b312917f4c970b175", 
+          "60e18588b85293cf10f689f2d200e763", 
+          "8daa1ac31dfc3fa98a216035af99dcb0", 
+          "59b38ccfd561682a7ee32d97656fa8fb", 
+          "6223c702ba8b1f0a3e95dfecc07b5dd4", 
+          "fd6ace22531c94bb64849e9dac3aa016", 
+          "dde9c9b89b413a5868d7358511db5a6a", 
+          "b72f55020534df0e6e130cdca9e910e5", 
+          "d874cd610294dca857ed20afe9572c27", 
+          "3403a9deaeab0ab8b382d870d6d8fa69", 
+          "15b7632a3c749e83af604b66700f66f9", 
+          "dac73012ae87f773ca83911d8242c3ae", 
+          "762df99b07952e1f663963b4f10b7b86", 
+          "2c38665d59c91fa9eb7eaf4237c10462", 
+          "4768bf1b07ea1975b778053bfc433be6", 
+          "104261c8f6b487cb579a2f9e60fe888b", 
+          "de467b610c78b76e9e6b810c68d40580", 
+          "c61254760ceb58c63b649f563ac52e4d", 
+          "467c13feb478f07e41f3c0bfcfc9b4ae", 
+          "48eb3ffaaff57836affc60df88804d85", 
+          "ce06e3a4d2a62043778c0e3d5e8aa4ab", 
+          "47e88c6d2a94f8589581b8fef7819616", 
+          "309dccc3796edc4b8efa9a1141e02c40", 
+          "c9050cd6b086e14876081ca70ed38d63", 
+          "98201331ae629002b66615248e5c0266", 
+          "62edbaaf9c9bc12a972eae211a5f6ac5", 
+          "e35f49106cbc2296838c12294303d258", 
+          "59bc88a22aec215dca086ed79414fa7d", 
+          "b565419fcaa98d2bb5b8cbf6aaa7b0ec", 
+          "fffdace6d4ba1b389eb27d6f094f8672", 
+          "0b032bd9d2f06dafef3b2ebeeaeacc06", 
+          "a0592a967d32df2624f6c8e51552e04d", 
+          "431e7b9711c82c7d0269da554b028149", 
+          "d48e5ad868d93e305bd27f5b779be72d", 
+          "7952049119ecc87fe8b9b93402634066", 
+          "2ec5c3c1dbc52acf3251e196be332068", 
+          "ce68e1ee5848e25e1714c4bcafc3af67"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://www.mindspark.in/mindspark/login/", 
+      "id": "dca068a6c1c03af98fd73f5b88dbf5ff"
+    }
+  ]
+}
