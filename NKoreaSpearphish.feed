@@ -1,0 +1,39 @@
+{
+  "feedinfo": {
+    "provider_url": "https://intranet.ssnet.usss.dhs.gov", 
+    "display_name": "NKoreaSpearphish", 
+    "name": "NKoreaSpearphish", 
+    "tech_data": "TLP:Green", 
+    "summary": "Advanced Persistent Threat Cyber Actors Conduct Spear-Phishing Against US Utility Companies", 
+    "icon": "iVBORwo="
+  }, 
+  "reports": [
+    {
+      "title": "NKoreaSpearphish", 
+      "timestamp": 1510343247, 
+      "iocs": {
+        "dns": [
+          "discmusik.blogspot.mx", 
+          "muttbombing.com", 
+          "mnn.com/", 
+          "3milliondogs.com"
+        ], 
+        "md5": [
+          "212e9a8b649efeb2367d49f7b8f08235", 
+          "212e9a8b649efeb2367d49f7b8f08235", 
+          "a1492acdc15e9c42cbb4a83728efc4a3", 
+          "49ef64214ca7afd2edc68be8099fa48c", 
+          "a3bc6559d06608d8154a3f3e13a1c3fc", 
+          "626398a70eb048d6f47ba24e0355662e", 
+          "70629efecce0356b2fae4729977bd371", 
+          "ed431e5680e40fd287e3126f45527591", 
+          "cefdcc816b0ad1b475ab15f1ee5ea394", 
+          "8177bb9b68bb07144484247694342cf0"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://intranet.ssnet.usss.dhs.gov", 
+      "id": "6239acae253e23a9fb8d972a3e533c52"
+    }
+  ]
+}
