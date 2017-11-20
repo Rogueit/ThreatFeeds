@@ -1,6 +1,6 @@
 {
   "feedinfo": {
-    "provider_url": "www.kindred.com", 
+    "provider_url": "http://www.kindred.com", 
     "display_name": "Allowed", 
     "name": "Allowed", 
     "tech_data": "KindredUser", 
