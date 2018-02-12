@@ -9,7 +9,7 @@
   "reports": [
     {
       "title": "MindSpark", 
-      "timestamp": 1508954194, 
+      "timestamp": 1508954195, 
       "iocs": {
         "md5": [
           "b83db01d9e4bd53c9b65214806b54eb7",
@@ -18,6 +18,20 @@
           "79381aca63c851ddd0059c64e4be0be0",
           "78ce15622a81aebb777361c6887e1a6f",
           "20cd22b2aefc7a3be54a4c3dd2df5f4f",
+          "0c4f1e503199e506de2d1b8da2dc7794",
+          "c65b2c3c37509a6a67057d1547b6fd89",
+          "dcc0478a8dd6b8f9f47bafc00c97cb4b",
+          "ed0d33f64dde95b04ccf5f6d5cb36879",
+          "cabaaeadf6c2590ab1cecde6d32bd28d",
+          "dc887a3a99880d53f76f80ec088174fd",
+          "fd6c51d9037cc85446b2a4099c5d0eb9",
+          "5e20d21dd2d45afc8e9969365ddf2685",
+          "5c7f90e1b5f9f734cfadbcf0c49f9ffe",
+          "3064ded116cd538062a7be8f615be731",
+          "6602debe5a8f1907544853d63367e541",
+          "4b0bbd5542b920b83fc665422c1b6960",
+          "51af1ca71348251dc4164eab42c24943",
+          "3ecd8604850365455e082c7c88ba0d57",
           "56ede77137a0d0b9eeaf963b445924f3",
           "7fb9c0f107ebba865a1b87ca18a6b32b",
           "f95b1c4beb687ff813ebe7ba75d2405a",
