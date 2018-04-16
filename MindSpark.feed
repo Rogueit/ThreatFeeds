@@ -9,15 +9,27 @@
   "reports": [
     {
       "title": "MindSpark", 
-      "timestamp": 1508954226, 
+      "timestamp": 1508954227, 
       "iocs": {
         "md5": [
           "b83db01d9e4bd53c9b65214806b54eb7",
           "f126a333aa1e71056700c54d6002999b",
           "0d9ed41eb72fcd34d4e3c4c1043bd1ec",
           "5528f2f622e4aa6007659b1f4c8232da",
+          "2efafafc17293d681d9acac8534a82a4",
+          "d7b90d496cbe421c6d94fee1e9bfd358",
+          "69dbe1e13562fbcca1a24973a8c567ea",
+          "f78802be66ed4eed4a30d8855d07e7be",
           "6595c961d483abaddfd52c3c5d0ffbfe",
+          "38aceed9b2fbe366904607ca1716fef5",
+          "7297375c0b87cb143a00eaf94cd0f81d",
+          "adaeb9097fd2d6729e26408fe439c867",
+          "a15e610c6fbeab5e8177b9e369aaa531",
+          "4951a7beb135225df0bf30a9d6323c91",
+          "ab055e65aef7b4f108bc3deea6b20f82",
           "b6349f68129677883e101dcee1377644",
+          "fe70e48bbd5ac14511fe0eae85fa2d88",
+          "a557df44dbb8df245b9648d19a3cea6b",
           "a4c5ec29866bc5205f6871c3fbf97da2",
           "5d8a34b8ef23413d3f55123280328a8e",
           "90e064216b83eca70d84725bd3f80687",
