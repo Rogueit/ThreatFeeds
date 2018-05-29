@@ -1,7 +1,7 @@
 {
   "feedinfo": {
     "provider_url": "https://www.us-cert.gov/ncas/alerts/TA18-149A", 
-    "display_name": "HIDDEN COBRA Joanap", 
+    "display_name": "HIDDENCOBRAJoanap", 
     "name": "HIDDENCOBRAJoanap", 
     "tech_data": "TLP White", 
     "summary": "HIDDEN COBRA Joanap", 
