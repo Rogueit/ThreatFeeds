@@ -1,0 +1,24 @@
+{
+  "feedinfo": {
+    "provider_url": "http://stix.mitre.org", 
+    "display_name": "TA", 
+    "name": "TA", 
+    "tech_data": "There are no requirements to share any data to receive this feed", 
+    "summary": "This feed was imported from stix package", 
+    "icon": "iVBORwo="
+  }, 
+  "reports": [
+    {
+      "title": "ta", 
+      "timestamp": 1528762946, 
+      "iocs": {
+        "ipv4": [
+          "181.1.253.234"
+        ]
+      }, 
+      "score": 100, 
+      "link": "http://stix.mitre.org", 
+      "id": "0dad603534240b7e13cf9d7c06b373ec"
+    }
+  ]
+}
