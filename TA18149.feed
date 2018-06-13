@@ -1,7 +1,7 @@
 {
   "feedinfo": {
-    "name": "Hidden Cobra 3",
-    "display_name": "Hidden Cobra 3,
+    "name": "HiddenCobra3",
+    "display_name": "Hidden Cobra 3",
     "provider_url": "https://www.us-cert.gov/ncas/alerts/TA18-149A",
     "summary": "HIDDEN COBRA  Joanap Backdoor Trojan and Brambul Server Message Block Worm",
     "tech_data": "There are no requirements to share any data to receive this feed.",
