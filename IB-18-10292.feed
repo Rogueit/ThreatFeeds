@@ -1,0 +1,33 @@
+{
+  "feedinfo": {
+    "provider_url": "https://hsin.dhs.gov", 
+    "display_name": "IB-18-10292", 
+    "name": "IB1810292", 
+    "tech_data": "TLP:Amber", 
+    "summary": "On May 29, 2018, a trusted third party reported that multiple phishing emails contained links to domains which hosted Emotet", 
+    "icon": "iVBORwo="
+  }, 
+  "reports": [
+    {
+      "title": "IB-18-10292", 
+      "timestamp": 1528932704, 
+      "iocs": {
+        "dns": [
+          "jeffcm.com/Zahlungserinnerung/Fakturierung-06121/", 
+          "oddbods.co.uk/D6yd9x/", 
+          "visual-sounds.com/ssfm/RpIKkJ/", 
+          "lange2011.de/NtczUz/", 
+          "hellmuth-worbs.de/RaYVacH/", 
+          "comquestsoftware.com/thinkingrider/18cr2K/"
+        ], 
+        "md5": [
+          "a463ce8f2c2a943e2396e49bfbdd687a", 
+          "1b6e33075f7a4cc150baadd20dc937dc"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://hsin.dhs.gov", 
+      "id": "fae635067b7a5bbfd9113bbf9cba51f1"
+    }
+  ]
+}
