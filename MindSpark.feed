@@ -9,12 +9,17 @@
   "reports": [
     {
       "title": "MindSpark", 
-      "timestamp": 1508954268, 
+      "timestamp": 1508954269, 
       "iocs": {
         "md5": [
           "b83db01d9e4bd53c9b65214806b54eb7",
           "4727e8aa40aba7c947fc8566dd1fff17",
+          "1091daf7f660ae2427cf8185186cc916",
+          "19e8c2117c0cd3ad0d4f42382dbde93c",
+          "6be0dccebec2c2d36f910170960ee579",
           "26db8a196f8aa6f14091e6afa5342716",
+          "ef31e2b3e252256dfb6c3e2988cecd82",
+          "9ee229613b2268d522d6414f70155fb5",
           "186ce322f970ffa69cf7a2b480d730b4",
           "06aa04e50d78ccaad27f286bcbd73c9b",
           "8c38888de20c41bfd25692e2159c630d",
