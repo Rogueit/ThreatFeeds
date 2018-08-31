@@ -1,0 +1,26 @@
+{
+  "feedinfo": {
+    "provider_url": "https://slimware.com", 
+    "display_name": "Slimware", 
+    "name": "Slimware", 
+    "tech_data": "https://blog.malwarebytes.com/cybercrime/2014/11/mindspark-toolbars/", 
+    "summary": "This feed is a list of all md5 associated with the Slimware PUP"
+  }, 
+  "reports": [
+    {
+      "title": "Slimware", 
+      "timestamp": 1508954277, 
+      "iocs": {
+        "md5": [
+          
+          "c510e7fd624912725bae0487af18660c",
+          "d3369a2ad4217100d530e61941d2a33e",
+          "ce68e1ee5848e25e1714c4bcafc3af67"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://www.mindspark.in/mindspark/login/", 
+      "id": "dca068a6c1c03af98fd73f5b88dbf5ff"
+    }
+  ]
+}
