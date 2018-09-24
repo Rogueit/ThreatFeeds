@@ -9,13 +9,14 @@
   "reports": [
     {
       "title": "Slimware", 
-      "timestamp": 1508954284, 
+      "timestamp": 1508954285, 
       "iocs": {
         "md5": [
           
           "c510e7fd624912725bae0487af18660c",
           "d3369a2ad4217100d530e61941d2a33e",
-          "51765310d1242f4325c961469855bbb8",          
+          "51765310d1242f4325c961469855bbb8",
+          "52adc44c412f8590fbae36066b9fcb33",
           "16fada3319fbb1714f9424c527dd735d",
           "e36a011a11bfb964626a3deab04fcfe8",
           "27a37fcde7209b8c7e9e09d1b154fa1f",
