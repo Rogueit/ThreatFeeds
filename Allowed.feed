@@ -10,9 +10,16 @@
   "reports": [
     {
       "title": "Allowed", 
-      "timestamp": 1547461383, 
+      "timestamp": 1547461384, 
       "iocs": {
         "md5": [
+          "c6ff00da1605982e616c03be809ffe2d",
+          "32d5589fb273dce6422f56e4db2de367",
+          "db8e62384b6f8769193456cf398c9af5",
+          "1b51dfad5845b49fd957c9d659edb897",
+          "88fbbb1c601a6bc42054e57c2897fa45",
+          "505ac07e1372f7c3f84b660fd606337f",
+          "d0bc36616991045d839ca24af12e1c41",
           "c77111bf6166a67d8061fc1efc5c7ba5",
           "ff240c792a97316c54c1ecc0e838210e",
           "94b4ddeea69d9768f716f412a59f55dc",
