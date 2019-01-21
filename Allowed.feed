@@ -10,9 +10,10 @@
   "reports": [
     {
       "title": "Allowed", 
-      "timestamp": 1547461395, 
+      "timestamp": 1547461396, 
       "iocs": {
         "md5": [
+          "fe395201ac63f4bb20ed26225ee61cf3",
           "2c5c8b28585f2c76931494d10f50a72a",
           "b5dd38e3b175d96af3409504f2284d93",
           "521e06003f30042a2126c1c8d1f416b5",
