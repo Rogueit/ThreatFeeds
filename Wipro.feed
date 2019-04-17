@@ -1,0 +1,52 @@
+{
+  "feedinfo": {
+    "provider_url": "https://www.wipro.com/en-US/", 
+    "display_name": "Wipro", 
+    "name": "Wipro", 
+    "tech_data": "TLP:Green", 
+    "summary": "This feed is a list of all IOCs released by Wipro", 
+    "icon": "iVBORwo="
+  }, 
+  "reports": [
+    {
+      "title": "Wipro", 
+      "timestamp": 1555525345, 
+      "iocs": {
+        "ipv4": [
+          "65.52.17.132", 
+          "52.191.194.66", 
+          "163.172.204.41", 
+          "137.135.91.49", 
+          "78.142.62.200"
+        ], 
+        "dns": [
+          "wipro365.com", 
+          "microsoftonline-secure-login.com", 
+          "secure-message.online", 
+          "encrypt-email.online", 
+          "secured-mail.online", 
+          "internal-message.app", 
+          "encrypted-message.cloud"
+        ], 
+        "md5": [
+          "95f04aa18dc27e4f0c73ac6829dcc3d8", 
+          "29cd6dfecba72957d72ba539a9d3a489", 
+          "e6c3816372b044b3cb89188c421b23b8", 
+          "fcba211bca9d3514718fc371c817558a", 
+          "35afdddc519859bb0d0040a5b12d97f9", 
+          "11713afad22a3198479898b4b6916de3", 
+          "99fe092ddca873c2f7c36439913f8b0b", 
+          "4d5b8d2cd7ebada296f675484cb43bfc", 
+          "0b0b9684f87f73d26f31d558a4edddb2", 
+          "02617920479e65136f9164fb8e42fe30", 
+          "1c48f5e0d1f72fa86bce4fcb6649a219", 
+          "e2e88d6ea5d5d2a4c7b8039988644043", 
+          "dd5986339aaf23f2baf8c245923a0f69"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://www.wipro.com/en-US/", 
+      "id": "ae7e7bfe2a9444b31acc22e612bc4363"
+    }
+  ]
+}
