@@ -1,0 +1,36 @@
+{
+  "feedinfo": {
+    "provider_url": "https://hisac.threatstream.com/", 
+    "display_name": "ryuk", 
+    "name": "ryuk", 
+    "tech_data": "TLP:Green", 
+    "summary": "CYT2:-MEMBER-SUBMISSION:-RYUK-RANSOMWARE-IOCS", 
+    "icon": "/9j/4AAQSkZJRgABAQEASABIAAD/4QBmRXhpZgAATU0AKgAAAAgABAE="
+  }, 
+  "reports": [
+    {
+      "title": "ryuk", 
+      "timestamp": 1576177924, 
+      "iocs": {
+        "md5": [
+          "cb0c1248d3899358a375888bb4e8f3fe", 
+          "5f7dd3740a3a4ea74e2ee234f6de26aa", 
+          "40492c178079e65dfd5449bf899413b6", 
+          "3266352bea7513ac3ead6e7d68661ad3", 
+          "d7697d0d692bd883e53036b906108d56", 
+          "aef8a240881322a88d3dafcfdb19ed8a", 
+          "cc027b90bf08fee5b5aadfc0378cc95f", 
+          "3925ae7df3328773be923f74d70555e3", 
+          "12147c94f3211733f893d31d587d4ad6", 
+          "05c021d8d82d3073051a8d0c3edbd0ae", 
+          "fca20e17ce8c0c3f3c78d82c953472ed", 
+          "db2766c6f43c25951cdd38304d328dc1", 
+          "df4e8ce1fc1c39a8bcf34dad38d4eab4"
+        ]
+      }, 
+      "score": 100, 
+      "link": "https://hisac.threatstream.com/", 
+      "id": "7d162e40f72b60aa99848287f7b0e89a"
+    }
+  ]
+}
