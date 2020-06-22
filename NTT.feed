@@ -1,97 +1,37 @@
 {
-  "feedinfo": {
-    "provider_url": "https://www.nttsecurity.com/en-us/", 
-    "display_name": "NTT", 
-    "name": "NTT", 
-    "tech_data": "IOC List", 
-    "summary": "This feed is a list of IOCs released by NTT Security", 
-    "icon": "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"
-  }, 
-  "reports": [
-    {
-      "title": "NTT", 
-      "timestamp": 1515790875,
-      "iocs": {
-        "ipv4": [
-          "212.90.148.126", 
-          "103.254.12.51", 
-          "91.98.112.196", 
-          "46.173.218.208",
-          "103.83.81.148",
-          "102.165.49.69",
-          "200.116.199.10",
-          "36.66.188.251",
-          "173.171.132.82",
-          "23.94.41.37",
-          "195.208.1.110",
-          "94.155.41.82",
-          "221.229.166.38",
-          "202.169.44.149",
-          "117.79.132.174",
-          "103.39.49.35",
-          "103.43.184.254",
-          "185.189.58.222",
-          "51.15.157.17",
-          "62.210.36.181",
-          "202.218.252.73",
-          "84.200.32.205",
-          "5.9.121.92",
-          "183.128.41.100",
-          "188.27.97.52",
-          "119.59.124.163",
-          "202.169.44.149",
-          "185.189.58.222",
-          "103.255.178.251",
-          "200.159.128.132",
-          "37.97.239.30",
-          "51.15.153.212",
-          "95.211.172.143",
-          "178.63.27.117",
-          "122.114.242.68",
-          "111.230.229.226",
-          "69.28.199.180",
-          "183.136.202.244",
-          "185.165.31.79",
-          "185.165.31.74",
-          "46.243.189.99",
-          "46.243.189.112",	  
-          "185.2.4.85",
-          "202.46.129.104",
-          "175.100.189.174"
-        ], 
-        "dns": [
-          "jfa.physics.its.ac.id", 
-          "prince-of-persia24.ru",
-          "interbanx.co.id",
-          "smoktruefalse.com,
-          "fielmetodo.pt"
-        ], 
-        "md5": [
-          "945b91724531e23c1c680065c88b31bb",
-          "a33bd7f15f886aa1bb9ec3a7d48765c",
-          "2d20ebc126530f7c38e4b9425b4af7eb",
-          "d86b82d9fbb5618e3b2f16f537cd9a70",
-          "366c27888902481f1e12ebbfa9ce946a",
-          "e7a4c6ec3a0ba5d460fa2a88c6fd0e97",
-          "6f8cd5b7b8c196cd8d57f82532e62dc0",
-          "4c60196d776ae05fc01f0bca49fa7d3b",
-          "4a12831efd682fe05ee0422dc7725c04",
-          "00d02ec4503c664f6acf1bcbfb4c6971",
-          "d118e14771156fa35c5b3bbc02099857",
-          "52750a7d14c7cb842293be29a0e3047c",
-          "bc305b3260557f2be7f92cbbf9f82975",
-          "286e00bb9465740949641b0d4cff5097",
-          "2f3ec555526902d25454d6bfc4495da7",
-          "8a45b0941ec2af89bfd9ed33dae2053f",
-          "2d20ebc126530f7c38e4b9425b4af7eb",
-          "8fbe9a961300fb62df587ed708160655",
-          "8c1933fe2278e15299158ec894abfc78",
-          "6aa38ec713fdda08ece269abdcd66fbd"
-        ]
-      }, 
-      "score": 100, 
-      "link": "https://www.nttsecurity.com/en-us/", 
-      "id": "c5b8cf91b246e6f128a8ee40811d1c84"
-    }
-  ]
+    "feedinfo":  {
+                     "provider_url":  "https://www.nttsecurity.com/en-us/",
+                     "display_name":  "NTT",
+                     "name":  "NTT",
+                     "tech_data":  "IOC List",
+                     "summary":  "This feed is a list of IOCs released by NTT Security",
+                     "icon":  "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"
+                 },
+    "reports":  [
+                    {
+                        "title":  "NTT",
+                        "iocs":  {
+                                     "ipv4":  [
+                                                  "212.90.148.126",
+                                                  "178.254.7.34",
+                                                  "175.100.189.174"
+                                              ],
+                                     "dns":  [
+                                                 "jfa.physics.its.ac.id",
+                                                 "automatischer-staubsauger.com",
+                                                 "demo.caglificioclerici.com",
+                                                 "fielmetodo.pt"
+                                             ],
+                                     "md5":  [
+                                                 "945b91724531e23c1c680065c88b31bb",
+                                                 "df3a1d6a99859eb03d46bfcc8e9c1a93",
+                                                 "6aa38ec713fdda08ece269abdcd66fbd"
+                                             ]
+                                 },
+                        "score":  100,
+                        "link":  "https://www.nttsecurity.com/en-us/",
+                        "id":  "c5b8cf91b246e6f128a8ee40811d1c84",
+                        "timestamp":  1588863670
+                    }
+                ]
 }
